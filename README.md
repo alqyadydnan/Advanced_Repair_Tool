@@ -1,4 +1,3 @@
-I've written the complete English version of your professional GitHub README file. Here it is:
 
 ```markdown
 <div align="center">
